@@ -1,0 +1,11 @@
+estacion,provincia,altitud_m,temperatura_c,humedad_pct,precipitacion_mm,tipo_zona
+Cusco,Cusco,3399,18.5,65,12.4,Urbana
+Pisaq,Calca,2972,22.0,58,5.1,Valle
+Urubamba,Urubamba,2870,24.5,72,8.3,Valle
+Ollantaytambo,Urubamba,2792,,80,15.0,Valle
+Sicuani,Canchis,3550,16.0,50,2.0,Altoandina
+Santo Tomás,Chumbivilcas,3660,14.2,68,18.5,Altoandina
+Espinar,Espinar,3928,12.8,45,1.2,Altoandina
+Calca,Calca,2925,21.5,60,6.0,Valle
+Anta,Anta,3337,17.8,62,9.4,Agrícola
+Paucartambo,Paucartambo,2906,19.2,70,14.1,Valle
